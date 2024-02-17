@@ -1,4 +1,4 @@
-<h1>Building a Cybersecurity Homelab for Detection & Monitoring</h1>
+<h1>Building a Cybersecurity Homelab for Detection & Monitoring - In Progress</h1>
 
 <p>Applying and implementing security ideas in cyberspace can be difficult if there is no practical and safe infrastructure to carry out these tasks.</p>
 

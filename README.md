@@ -101,6 +101,7 @@ Click Next.
 <p>Enter <b>em0, em1, em2, em3, em4, em5</b> respectively for each consecutive question</p>
 <br>
 <b>Do you want to proceed? [y:n]?:</b> y
+<br>
 <p align="center">
 <img src="https://imgur.com/yWjrChD.png" height="40%" width="30%" alt="VMware"/>
 <p align="center">

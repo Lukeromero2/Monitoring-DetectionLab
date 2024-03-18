@@ -134,6 +134,10 @@ Click Next.
 <br>
 <p>This will be the all-in-one IDS, Security Monitoring, and Log Management solution.</p>
 <a href="https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md"> Dowload the Security Onion ISO file from here</a>
+<br>
+<p>Select Typical installation >> Click Next</p>
+<br>
+<P>Installer disc imagine file >> SO ISO file path >> Click Next</P>
 <!--
  ```diff
 - text in red

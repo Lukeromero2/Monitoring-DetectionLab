@@ -94,7 +94,7 @@ Click Next.
 <p>You should end up with a screen similar to this
 <p align="center">
 <img src="https://imgur.com/VxJqIWB.png" height="40%" width="30%" alt="VMware"/>
-<p>Enter option 1
+<p>Enter option 1</p>
 <br>
 <b>Should VLANS be set up now [y:n]?:n</b>
 <p>Enter <b>em0, em1, em2, em3, em4, em5</b> respectively for each consecutive question</p>

@@ -101,6 +101,8 @@ Click Next.
 <b>Do you want to proceed? [y:n]?:</b> y
 <p align="center">
 <img src="https://imgur.com/yWjrChD.png" height="40%" width="30%" alt="VMware"/>
+<p align="center">
+<img src="https://imgur.com/yuabhaq.png" height="40%" width="30%" alt="VMware"/>
  
 <!--
  ```diff

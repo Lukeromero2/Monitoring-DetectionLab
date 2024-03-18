@@ -119,8 +119,15 @@ Click Next.
 <p>Use the configeration below for the OPT1 interface.</p>
 <p align="center">
 <img src="https://imgur.com/CdyK6pC.png" height="40%" width="30%" alt="VMware"/>
- <p>Use the configeration below for the OPT2 interface.</p>
- 
+<p>Use the configeration below for the OPT2 interface.</p>
+<p align="center">
+<img src="https://imgur.com/JaFfFJl.png" height="40%" width="30%" alt="VMware"/>
+<p>Leave the OPT3 interface without an IP as it is going to have the span port with traffic that Security Onion will be monitoring.</p>
+<br>
+<p>Use the configertion for the OPT4 interface.</p>
+<br>
+<p align="center">
+<img src="
 <!--
  ```diff
 - text in red

@@ -112,7 +112,11 @@ Click Next.
 <br>
 <p>The ip address <b>192.168.1.1</b> is going to be used to access the pfsense WebGUI via the Kali Machine</p>
 <br>
-<p>Use the configuration below for the LAN interface</p>
+<p>Use the configuration below for the LAN interface.</p>
+<br>
+<p align="center">
+<img src="https://imgur.com/6kq8QcW.png" height="40%" width="30%" alt="VMware"/>
+<p>Use the configeration below for the OPT1 interface.</p>
 
 <!--
  ```diff

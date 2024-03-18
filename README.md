@@ -128,7 +128,11 @@ Click Next.
 <br>
 <p align="center">
 <img src="https://imgur.com/lr3hqNM.png" height="40%" width="30%" alt="VMware"/>
- 
+<p>This ends the configuration of the pfsensse VM. The rest of the configuration will be done via the kali machine through the WebConfigurator.</p>
+<br>
+<p><b>Configuring Security Onion</b></p>
+<br>
+<p>This will be the all-in-one IDS, Security Monitoring, and Log Management solution.</p>
 <!--
  ```diff
 - text in red

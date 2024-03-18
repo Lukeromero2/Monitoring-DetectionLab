@@ -117,7 +117,10 @@ Click Next.
 <p align="center">
 <img src="https://imgur.com/6kq8QcW.png" height="40%" width="30%" alt="VMware"/>
 <p>Use the configeration below for the OPT1 interface.</p>
-
+<p align="center">
+<img src="https://imgur.com/CdyK6pC.png" height="40%" width="30%" alt="VMware"/>
+ <p>Use the configeration below for the OPT2 interface.</p>
+ 
 <!--
  ```diff
 - text in red

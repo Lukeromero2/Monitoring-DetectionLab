@@ -133,6 +133,7 @@ Click Next.
 <p><b>Configuring Security Onion</b></p>
 <br>
 <p>This will be the all-in-one IDS, Security Monitoring, and Log Management solution.</p>
+<a href="https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md"> Dowload the Security Onion ISO file from here</a>
 <!--
  ```diff
 - text in red

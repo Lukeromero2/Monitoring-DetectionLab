@@ -127,7 +127,8 @@ Click Next.
 <p>Use the configertion for the OPT4 interface.</p>
 <br>
 <p align="center">
-<img src="
+<img src="https://imgur.com/lr3hqNM.png" height="40%" width="30%" alt="VMware"/>
+ 
 <!--
  ```diff
 - text in red

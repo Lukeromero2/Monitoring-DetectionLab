@@ -103,7 +103,14 @@ Click Next.
 <img src="https://imgur.com/yWjrChD.png" height="40%" width="30%" alt="VMware"/>
 <p align="center">
 <img src="https://imgur.com/yuabhaq.png" height="40%" width="30%" alt="VMware"/>
- 
+<p>Enter option 2</p>
+<br>
+<p>We'll start with a LAN interface (2)</p>
+<br>
+<p>The ip address <b>192.168.1.1</b> is going to be used to access the pfsense WebGUI via the Kali Machine</p>
+<br>
+<p>Use the configuration below for the LAN interface</p>
+
 <!--
  ```diff
 - text in red

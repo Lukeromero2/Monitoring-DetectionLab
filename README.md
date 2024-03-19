@@ -323,6 +323,13 @@ Click Next.
 <p>For <b>OPT3</b> be sure to enable interface as shown below</p>
 <p align="center">
 <img src="https://imgur.com/bgSoKW5.png" height="50%" width="60%" alt="VMware"/>
+<p>Back at <b>Interfaces Assignment</b> select <b>Bridges</b></p>
+<br>
+<p>Click <b>Add</b></p>
+<br>
+<p>Select <b>VictimNetwork</b> as the member interface.</p>
+<p align="center">
+<img src="https://imgur.com/azegOqX.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

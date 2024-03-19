@@ -162,7 +162,7 @@ Click Next.
 <br>
 <p>After the initial stages of loading, type "yes" when prompted</p>
 <p align="center">
-<img src="https://imgur.com/pv2NN3X.png" height="40%" width="30%" alt="VMware"/>
+<img src="https://imgur.com/Jt0TPgI.png" height="40%" width="30%" alt="VMware"/>
 <p>~ Set a username & password:</p>
 <!--
  ```diff

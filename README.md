@@ -151,6 +151,14 @@ Click Next.
 <p>Click "Customize Hardware" and do the following:</p>
 <br>
 <p>~ Change memory to 4-32GB</p>
+<br>
+<p>~ Add two Network Adapters and assign them Vmnet 4 & Vmnet 5 respectively</p>
+<br>
+<p align="center">
+<img src="https://imgur.com/fKhVcdR.png" height="40%" width="30%" alt="VMware"/>
+<p>Click "Finish"</p>
+<br>
+<p>Power the virtual machine and click Enter when prompted:</p>
 <!--
  ```diff
 - text in red

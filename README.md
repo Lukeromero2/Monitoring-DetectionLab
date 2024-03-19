@@ -159,6 +159,11 @@ Click Next.
 <p>Click "Finish"</p>
 <br>
 <p>Power the virtual machine and click Enter when prompted:</p>
+<br>
+<p>After the initial stages of loading, type "yes" when prompted</p>
+<p align="center">
+<img src="https://imgur.com/pv2NN3X.png" height="40%" width="30%" alt="VMware"/>
+<p>~ Set a username & password:</p>
 <!--
  ```diff
 - text in red

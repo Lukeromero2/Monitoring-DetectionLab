@@ -264,6 +264,13 @@ Click Next.
 <p>After powering on, use this command to change the default password to a more secure one of your choice:</p>
 <br>
 <p>The Kali Machine is ready for use now.</p>
+<p><b>pfsense Interfaces and Rules</b></p>
+<br>
+<p>Now that the Kali machine is set up, the pfsense WebConfigurator can be accessed in order to make some changes to the pfsense interface and firewall rules.</p>
+<br>
+<p>Navigate to the web browser and search for <b>192.168.1.1</b></p>
+<br>
+<p>Select "Advanced.." at this screen:</p>
 <!--
  ```diff
 - text in red

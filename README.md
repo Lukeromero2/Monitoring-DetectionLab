@@ -234,7 +234,18 @@ Click Next.
 <br>
 <p>After this installation, run the <b>ifconfig</b> command on the Ubuntu Machine and take note of its IP address.</p>
 <br>
-<p>Head back to your Security Onion instance and run the following command</p>
+<p>Head back to your Security Onion instance and run the following command "<b>sudo so-allow</b>"</p>
+<br>
+<p>Enter your password</p>
+<br>
+<p>Type "a" and wait for the process to complete.</p>
+<p align="center">
+<img src="https://imgur.com/KMtUreK.png" height="50%" width="60%" alt="VMware"/>
+<p>Type in the IP address from the Ubuntu Desktop</p>
+<br>
+<p>This will create a firewall rule on Security Onion that will allow you web access from your Ubuntu Desktop.</p>
+<br>
+<p>Navigate to the Security Onion IP address on your Ubuntu Desktop:</p>
 <!--
  ```diff
 - text in red

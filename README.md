@@ -315,6 +315,11 @@ Click Next.
 <p>Scroll all the way down and click <b>Save</b>.</p>
 <p align="center">
 <img src="https://imgur.com/oJFXYwL.png" height="50%" width="60%" alt="VMware"/>
+<p>If you get an error, use this <a href="https://blog.matrixpost.net/pfsense-2-5-0-bug-renaming-of-lan-interface-runs-into-an-error-regarding-router-advertisements-server-is-active/">Article</a> to troubleshoot and fix it.</p>
+<br>
+<p>Then do this for the rest of the Interfaces as shown below</p>
+<p align="center">
+<img src="https://imgur.com/TPrHxpT.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

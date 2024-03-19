@@ -296,6 +296,25 @@ Click Next.
 <p>At step <b>5 of 9</b>, Click Next</p>
 <p align="center">
 <img src="https://imgur.com/kEu1SRn.png" height="50%" width="60%" alt="VMware"/>
+<p>At step <b>6 of 9</b>, set a new Admin Password</p>
+<br>
+<p>Click Next</p>
+<br>
+<p>At step <b>7 of 9</b>, Click <b>Reload</b></p>
+<br>
+<p><b>Finish</b></p>
+<br>
+<p>At this point, pfsense Wizard is complete and changes can now be made to the interfaces.</p>
+<br>
+<p>Click on <b>Interfaces</b></p>
+<br>
+<p>Select <b>LAN</b></p>
+<br>
+<p>For "Description", change <b>LAN</b> to <b>Kali</b> as this is the Kali Interface.</p>
+<br>
+<p>Scroll all the way down and click <b>Save</b>.</p>
+<p align="center">
+<img src="https://imgur.com/oJFXYwL.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

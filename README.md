@@ -181,6 +181,14 @@ Click Next.
 <p>Type "AGREE"</p>
 <p align="center">
 <img src="https://imgur.com/J90fiKH.png" height="50%" width="40%" alt="VMware"/>
+<p>Select "Standard"</p>
+<br>
+<p>Set a hostname, and a short description</p>
+<br>
+<p>Click the spacebar to select ens33 as the managment interface</p>
+<p align="center">
+<img src="https://imgur.com/NpwzMa3.png" height="50%" width="40%" alt="VMware"/>
+
 <!--
  ```diff
 - text in red

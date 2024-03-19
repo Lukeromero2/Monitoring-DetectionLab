@@ -188,7 +188,9 @@ Click Next.
 <p>Click the spacebar to select ens33 as the managment interface</p>
 <p align="center">
 <img src="https://imgur.com/NpwzMa3.png" height="50%" width="40%" alt="VMware"/>
-
+<p>Set the addressing to DHCP:</p>
+<p align="center">
+<img src="https://imgur.com/undefined.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

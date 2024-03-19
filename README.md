@@ -345,6 +345,9 @@ Click Next.
 <p>~ Scroll all the way down and <b>SAVE</b></p>
 <p align="center">
 <img src="https://imgur.com/e4YqjTp.png" height-"50%" width="65%" alt="VMware"/>
+<p>This is the majority of the firewall configuration needed for pfsense.</p>
+<br>
+<p><b>Configuring Windows Server as a Domain Controller</b></p>
 <!--
  ```diff
 - text in red

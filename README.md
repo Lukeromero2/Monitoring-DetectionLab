@@ -171,27 +171,27 @@ Click Next.
 <br>
 <p>Select "Yes"</p>
 <p align="center">
-<img src="https://imgur.com/npPhScU.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/EaWS0ts.png" height="50%" width="40%" alt="VMware"/>
 <p>Click Enter</p>
 <p align="center">
-<img src="https://imgur.com/xx7Jy68.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/oFQLCoP.png" height="50%" width="60%" alt="VMware"/>
 <p>Select the EVAL option</p>
 <p align="center">
-<img src="https://imgur.com/cufHdZi.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/ahqJoA7.png" height="50%" width="40%" alt="VMware"/>
 <p>Type "AGREE"</p>
 <p align="center">
-<img src="https://imgur.com/J90fiKH.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/wyFoIFV.png" height="50%" width="40%" alt="VMware"/>
 <p>Select "Standard"</p>
 <p align="center">
-<img src="https://imgur.com/DowDNhv.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/4MFfHZH.png" height="50%" width="60%" alt="VMware"/>
 <p>Set a hostname, and a short description</p>
 <br>
 <p>Click the spacebar to select ens33 as the managment interface</p>
 <p align="center">
-<img src="https://imgur.com/NpwzMa3.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/v88HfCr.png" height="50%" width="40%" alt="VMware"/>
 <p>Set the addressing to DHCP:</p>
 <p align="center">
-<img src="https://imgur.com/sUmKZ7B.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/68eGJnw.png" height="50%" width="40%" alt="VMware"/>
 <p>Select "YES" at the next prompt.</p>
 <br>
 <p>Select "OK" at the next promp.t</p>
@@ -200,7 +200,7 @@ Click Next.
 <br>
 <p>Select "ens34" as the Monitor Interface.</p>
 <p align="center">
-<img src="https://imgur.com/INA4Xxo.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/2RDioHB.png" height="50%" width="40%" alt="VMware"/>
 <p>Select "Automatic" for the OS patch schedule</p>
 <br>
 <p>Accept the default home network ip</p>
@@ -211,7 +211,7 @@ Click Next.
 <br>
 <p>Select "IP"</p>
 <p align="center">
-<img src="https://imgur.com/gFJei0G.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/DCQlEEc.png" height="50%" width="60%" alt="VMware"/>
 <p>Select "Yes" for the NTP server & accept the defaults</p>
 <br>
 <p>Take note of your final settings before proceeding! If possible take a screenshot.</p>
@@ -220,7 +220,7 @@ Click Next.
 <br>
 <p>Select "Yes"</p>
 <p align="center">
-<img src="https://imgur.com/63Es9oc.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/rB9WQe4.png" height="50%" width="60%" alt="VMware"/>
 <p><b>SecOnionMgmt/ Analyst Machine</b></p>
 <br>
 <p>After installing Security Onion, having access to the web interface will be done from an external Ubuntu Desktop simulation a SOC/Security Analyst accessing a SIEM or any other tool from their device.</p>
@@ -240,14 +240,14 @@ Click Next.
 <br>
 <p>Type "a" and wait for the process to complete.</p>
 <p align="center">
-<img src="https://imgur.com/KMtUreK.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/gDL9kG8.png" height="50%" width="60%" alt="VMware"/>
 <p>Type in the IP address from the Ubuntu Desktop</p>
 <br>
 <p>This will create a firewall rule on Security Onion that will allow you web access from your Ubuntu Desktop.</p>
 <br>
 <p>Navigate to the Security Onion IP address on your Ubuntu Desktop:</p>
 <p align="center">
-<img src="https://imgur.com/pcc5voj.png" height="50%" width="60%" alt="VMware"/>
+<img src="https://imgur.com/T5VN7zY.png" height="50%" width="60%" alt="VMware"/>
 <p>This ends the configuration of the Security Onion VM.</p>
 <br>
 <p><b>Configuring Kali Linux</b></p>

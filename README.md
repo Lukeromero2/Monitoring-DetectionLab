@@ -212,6 +212,29 @@ Click Next.
 <p>Select "IP"</p>
 <p align="center">
 <img src="https://imgur.com/gFJei0G.png" height="50%" width="60%" alt="VMware"/>
+<p>Select "Yes" for the NTP server & accept the defaults</p>
+<br>
+<p>Take note of your final settings before proceeding! If possible take a screenshot.</p>
+<br>
+<p><b>Most important detail is the IP address for web access.</b></p>
+<br>
+<p>Select "Yes"</p>
+<p align="center">
+<img src="https://imgur.com/63Es9oc.png" height="50%" width="60%" alt="VMware"/>
+<p><b>SecOnionMgmt/ Analyst Machine</b></p>
+<br>
+<p>After installing Security Onion, having access to the web interface will be done from an external Ubuntu Desktop simulation a SOC/Security Analyst accessing a SIEM or any other tool from their device.</p>
+<br>
+<p>In order to do this, you'll first have to configure an Ubuntu Desktop. This is a very easy process so it will not be in this write-up, but it is covered in the video. Be sure to use all the default settings for the Ubuntu Desktop configuration.</p>
+<br>
+<a href="https://ubuntu.com/download/desktop">Download Ubuntu Desktop</a>
+<br>
+<a href="https://getlabsdone.com/10-easy-steps-to-install-ubuntu-19-04-on-vmware-workstation-15/">Install Ubuntu Desktop</a>
+<br>
+<br>
+<p>After this installation, run the <b>ifconfig</b> command on the Ubuntu Machine and take note of its IP address.</p>
+<br>
+<p>Head back to your Security Onion instance and run the following command</p>
 <!--
  ```diff
 - text in red

@@ -261,6 +261,9 @@ Click Next.
 <p>Before powering on the Kali, change the network adapter to <b>Vmnet2</b> and its memory to <b>4GB</b>, then power it on and use default credentials as specified.</p>
 <p align="center">
 <img src="https://imgur.com/Qc2jTde.png" height="50%" width="40%" alt="VMware"/>
+<p>After powering on, use this command to change the default password to a more secure one of your choice:</p>
+<br>
+<p>The Kali Machine is ready for use now.</p>
 <!--
  ```diff
 - text in red

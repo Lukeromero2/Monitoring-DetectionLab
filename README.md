@@ -170,6 +170,12 @@ Click Next.
 <p>Enter the username & password</p>
 <br>
 <p>Select "Yes"</p>
+<p align="center">
+<img src="https://imgur.com/CPoM3AN.png" height="40%" width="30%" alt="VMware"/>
+<p>Click Enter</p>
+<p align="center">
+<img src="https://imgur.com/xx7Jy68.png" height="50%" width="60%" alt="VMware"/>
+<p>Select the EVAL option</p>
 <!--
  ```diff
 - text in red

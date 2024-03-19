@@ -289,6 +289,13 @@ Click Next.
 <p>Click Next.</p>
 <p align="center">
 <img src="https://imgur.com/I7g76Ii.png" height="60%" width="60%" alt="VMware"/>
+<p>At step <b>3 of 9</b>, choose your timezone, then click Next.</p>
+<br>
+<p>At step <b>4 of 9</b>, untick the last two options</p>
+<br>
+<p>At step <b>5 of 9</b>, Click Next</p>
+<p align="center">
+<img src="https://imgur.com/kEu1SRn.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

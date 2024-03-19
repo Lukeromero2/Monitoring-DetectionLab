@@ -335,6 +335,16 @@ Click Next.
 <p>Under <b>Advanced Configuration</b> for <b>SpanPort</b>, select "<b>SPANPORT</b>"</p>
 <br>
 <p>Scroll all the way down and click <b>Save</b></p>
+<br>
+<p>Click Firewall >> Rules</p>
+<br>
+<p>Select the <b>Add</b> button with the arrow pointed downward</p>
+<br>
+<p>~ Under "Edit Firewall Rule" for Protocol select <b>Any</b></p>
+<br>
+<p>~ Scroll all the way down and <b>SAVE</b></p>
+<p align="center">
+<img src="https://imgur.com/e4YqjTp.png" height-"50%" width="65%" alt="VMware"/>
 <!--
  ```diff
 - text in red

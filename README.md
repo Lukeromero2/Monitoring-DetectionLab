@@ -164,6 +164,12 @@ Click Next.
 <p align="center">
 <img src="https://imgur.com/Jt0TPgI.png" height="50%" width="60%" alt="VMware"/>
 <p>~ Set a username & password:</p>
+<br>
+<p>After Securtiy Onion Reboots, proceed with the following:</p>
+<br>
+<p>Enter the username & password</p>
+<br>
+<p>Select "Yes"</p>
 <!--
  ```diff
 - text in red

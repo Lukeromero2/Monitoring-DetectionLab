@@ -201,6 +201,17 @@ Click Next.
 <p>Select "ens34" as the Monitor Interface.</p>
 <p align="center">
 <img src="https://imgur.com/INA4Xxo.png" height="50%" width="40%" alt="VMware"/>
+<p>Select "Automatic" for the OS patch schedule</p>
+<br>
+<p>Accept the default home network ip</p>
+<br>
+<p>Accept all the defaults</p>
+<br>
+<p>Enter an email address and password for the admin account</p>
+<br>
+<p>Select "IP"</p>
+<p align="center">
+<img src="https://imgur.com/gFJei0G.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

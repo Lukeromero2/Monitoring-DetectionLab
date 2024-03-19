@@ -211,7 +211,7 @@ Click Next.
 <br>
 <p>Select "IP"</p>
 <p align="center">
-<img src="https://imgur.com/gFJei0G.png" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/gFJei0G.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

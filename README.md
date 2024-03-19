@@ -320,6 +320,9 @@ Click Next.
 <p>Then do this for the rest of the Interfaces as shown below</p>
 <p align="center">
 <img src="https://imgur.com/TPrHxpT.png" height="50%" width="40%" alt="VMware"/>
+<p>For <b>OPT3</b> be sure to enable interface as shown below</p>
+<p align="center">
+<img src="https://imgur.com/bgSoKW5.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

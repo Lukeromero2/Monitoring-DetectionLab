@@ -171,12 +171,13 @@ Click Next.
 <br>
 <p>Select "Yes"</p>
 <p align="center">
-<img src="https://imgur.com/npPhScU.png" height="40%" width="30%" alt="VMware"/>
+<img src="https://imgur.com/npPhScU.png" height="50%" width="40%" alt="VMware"/>
 <p>Click Enter</p>
 <p align="center">
 <img src="https://imgur.com/xx7Jy68.png" height="50%" width="60%" alt="VMware"/>
 <p>Select the EVAL option</p>
-<img src="https://imgur.com/cufHdZi.png" height="40%" width="30%" alt="VMware"/>
+<p align="center">
+<img src="https://imgur.com/cufHdZi.png" height="50%" width="40%" alt="VMware"/>
 <p>Type "AGREE"</p>
 <!--
  ```diff

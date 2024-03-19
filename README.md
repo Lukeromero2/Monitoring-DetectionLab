@@ -146,6 +146,9 @@ Click Next.
 <p align="center">
 <img src="https://imgur.com/1ajkX7p.png" height="40%" width="30%" alt="VMware"/>
 <p>Specify disk size (minimum 200GB), store as single file, click Next.</p>
+<p align="center">
+<img src="https://imgur.com/zYsDuOQ.png" height="40%" width="30%" alt="VMware"/>
+<p>Click "Customize Hardware" and do the following:</p>
 <!--
  ```diff
 - text in red

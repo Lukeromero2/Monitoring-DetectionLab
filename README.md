@@ -182,7 +182,8 @@ Click Next.
 <p align="center">
 <img src="https://imgur.com/J90fiKH.png" height="50%" width="40%" alt="VMware"/>
 <p>Select "Standard"</p>
-<br>
+<p align="center">
+<img src="https://imgur.com/DowDNhv.png" height="50%" width="60%" alt="VMware"/>
 <p>Set a hostname, and a short description</p>
 <br>
 <p>Click the spacebar to select ens33 as the managment interface</p>

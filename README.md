@@ -330,6 +330,11 @@ Click Next.
 <p>Select <b>VictimNetwork</b> as the member interface.</p>
 <p align="center">
 <img src="https://imgur.com/azegOqX.png" height="50%" width="60%" alt="VMware"/>
+<p>Then select <b>Display Advanced</b></p>
+<br>
+<p>Under <b>Advanced Configuration</b> for <b>SpanPort</b>, select "<b>SPANPORT</b>"</p>
+<br>
+<p>Scroll all the way down and click <b>Save</b></p>
 <!--
  ```diff
 - text in red

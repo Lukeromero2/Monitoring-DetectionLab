@@ -276,6 +276,19 @@ Click Next.
 <p>Accept the risk and continue:</p>
 <p align="center">
 <img src="https://imgur.com/p6tIMXt.png" height="50%" width="60%" alt="VMware"/>
+<p>Sign into pfsense using default credentials "<b>admin</b>" & "<b>pfsense</b>".</p>
+<br>
+<p>You'll be greeted with a "<b>Wizard/pfSense Setup/</b>" page.</p>
+<br>
+<p>Click next until you get to Step <b>2 of 9</b>.</p>
+<br>
+<p>Add <b>8.8.8.8</b> as your primary DNS server.</p>
+<br>
+<p>Add <b>4.4.4.4</b> as your secondary DNS server.</p>
+<br>
+<p>Click Next.</p>
+<p align="center">
+<img src="https://imgur.com/I7g76Ii.png" height="60%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

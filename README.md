@@ -271,6 +271,8 @@ Click Next.
 <p>Navigate to the web browser and search for <b>192.168.1.1</b></p>
 <br>
 <p>Select "Advanced.." at this screen:</p>
+<p align="center">
+<img src="https://imgur.com/QRZfyWg.png" height="50% width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

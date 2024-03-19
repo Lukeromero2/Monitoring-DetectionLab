@@ -259,6 +259,8 @@ Click Next.
 <p>Since you're downloading the VM file, all you'll need to do is click on the .vmx file from the Kali folder you downloaded and it will automatically load up the default Kali image in VMware.</p>
 <br>
 <p>Before powering on the Kali, change the network adapter to <b>Vmnet2</b> and its memory to <b>4GB</b>, then power it on and use default credentials as specified.</p>
+<p align="center">
+<img src="https://imgur.com/Qc2jTde.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

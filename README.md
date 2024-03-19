@@ -134,7 +134,7 @@ Click Next.
 <br>
 <p>This will be the all-in-one IDS, Security Monitoring, and Log Management solution.</p>
 <a href="https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md"> Dowload the Security Onion ISO file from here</a>
-<br>
+<br> 
 <p>Select Typical installation >> Click Next</p>
 <br>
 <P>Installer disc imagine file >> SO ISO file path >> Click Next</P>
@@ -142,6 +142,9 @@ Click Next.
 <p>Choose Linux, CentOS 7 64-Bit and Click Next</p>
 <p align="center">
 <img src="https://imgur.com/Quzqrvp.png" height="40%" width="30%" alt="VMware"/>
+<p>Specify virtual machine name and click Next.</p>
+<img src="https://imgur.com/1ajkX7p.png" height="40%" width="30%" alt="VMware"/>
+<p>Specify disk size (minimum 200GB), store as single file, click Next.</p>
 <!--
  ```diff
 - text in red

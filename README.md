@@ -192,6 +192,15 @@ Click Next.
 <p>Set the addressing to DHCP:</p>
 <p align="center">
 <img src="https://imgur.com/sUmKZ7B.png" height="50%" width="40%" alt="VMware"/>
+<p>Select "YES" at the next prompt.</p>
+<br>
+<p>Select "OK" at the next promp.t</p>
+<br>
+<p>Select "Direct" at the next prompt.</p>
+<br>
+<p>Select "ens34" as the Monitor Interface.</p>
+<p align="center">
+<img src="https://imgur.com/INA4Xxo.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

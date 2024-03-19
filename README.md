@@ -246,6 +246,8 @@ Click Next.
 <p>This will create a firewall rule on Security Onion that will allow you web access from your Ubuntu Desktop.</p>
 <br>
 <p>Navigate to the Security Onion IP address on your Ubuntu Desktop:</p>
+<p align="center">
+<img src="https://imgur.com/pcc5voj.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

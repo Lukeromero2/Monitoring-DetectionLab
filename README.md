@@ -179,6 +179,8 @@ Click Next.
 <p align="center">
 <img src="https://imgur.com/cufHdZi.png" height="50%" width="40%" alt="VMware"/>
 <p>Type "AGREE"</p>
+<p align="center">
+<img src="https://imgur.com/J90fiKH.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

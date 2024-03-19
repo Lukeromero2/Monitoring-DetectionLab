@@ -190,7 +190,7 @@ Click Next.
 <img src="https://imgur.com/NpwzMa3.png" height="50%" width="40%" alt="VMware"/>
 <p>Set the addressing to DHCP:</p>
 <p align="center">
-<img src="https://imgur.com/sUmKZ7B" height="50%" width="40%" alt="VMware"/>
+<img src="https://imgur.com/sUmKZ7B.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

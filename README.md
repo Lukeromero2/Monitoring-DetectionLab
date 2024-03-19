@@ -248,6 +248,17 @@ Click Next.
 <p>Navigate to the Security Onion IP address on your Ubuntu Desktop:</p>
 <p align="center">
 <img src="https://imgur.com/pcc5voj.png" height="50%" width="60%" alt="VMware"/>
+<p>This ends the configuration of the Security Onion VM.</p>
+<br>
+<p><b>Configuring Kali Linux</b></p>
+<br>
+<p>Kali Linux will be used as an attack machine to propagate different forms of offensive actions against the Domain Controller and the other machines attached to it.</p>
+<a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/">Download the Kali Linux ISO from here</a>
+<br>
+<br>
+<p>Since you're downloading the VM file, all you'll need to do is click on the .vmx file from the Kali folder you downloaded and it will automatically load up the default Kali image in VMware.</p>
+<br>
+<p>Before powering on the Kali, change the network adapter to <b>Vmnet2</b> and its memory to <b>4GB</b>, then power it on and use default credentials as specified.</p>
 <!--
  ```diff
 - text in red

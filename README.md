@@ -138,6 +138,10 @@ Click Next.
 <p>Select Typical installation >> Click Next</p>
 <br>
 <P>Installer disc imagine file >> SO ISO file path >> Click Next</P>
+<br>
+<p>Choose Linux, CentOS 7 64-Bit and Click Next</p>
+<p align="center">
+<img src="https://imgur.com/Quzqrvp.png" height="40%" width="30%" alt="VMware"/>
 <!--
  ```diff
 - text in red

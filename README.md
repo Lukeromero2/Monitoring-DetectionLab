@@ -378,6 +378,31 @@ Click Next.
 <p>Click <b>Install Now</b></p>
 <p align="center">
 <img src="https://imgur.com/FHdfXHK.png" height="50%" width="50%" alt="VMware"/>
+<p>Select the <b>Windows Server 2019 standard Evaluation (Desktop Experience)</b></p>
+<br>
+<p>Accept the License Terms</p>
+<br>
+<p>Click <b>Next</b></p>
+<br>
+<p>Select the <b>Custom Install</b></p>
+<p align="center">
+<img src="https://imgur.com/RU6Js6Q.png" height="50%" width="50%" alt="VMware"/>
+<p>Click <b>New</b></p>
+<br>
+<p>Click <b>Apply</b></p>
+<br>
+<p>Click <b>OK</b></p>
+<br>
+<p>Click <b>Next</b></p>
+<br>
+<p>You should have this screen now</p>
+<p align="center">
+<img src="https://imgur.com/Uu4GuMo.png" height="50%" width="60%" alt="VMware"/>
+<p>Create password</p>
+<br>
+<p>After the installation, you should end up with this screen</p>
+<p align="center">
+<img src="https://imgur.com/cPX2vs1.png" height="50%" width="40%" alt="VMware"/>
 <!--
  ```diff
 - text in red

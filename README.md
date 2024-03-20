@@ -412,8 +412,28 @@ Click Next.
 <p>~ Search for "pc name" in the settings search</p>
 <br>
 <p>~ Select Rename PC and rename the PC your choice name</p>
-<br>
+<p align="center">
+<img src="https://imgur.com/6QbXeOd.png" height="50%" width="50%" alt="VMware"/>
 <p>~ Select Restart now</p>
+<br>
+<p>After the reboot, on the Server Manager Dashboard, click Manage >> Add Roles and Features</p>
+<p align="center">
+<img src="https://imgur.com/f4fbHvD.png" height="50%" width="60%" alt="VMware"/>
+<p>Keep clicking <b>Next</b> until you get to <b>Server Roles</b menu></p>
+<br>
+<p>Select <b>Active Directory Domain Services</b></p>
+<br>
+<p>Select "<b>Add Features</b>"</p>
+<p align="center">
+<img src="https://imgur.com/RbVWmZ8.png" height="50%" width="50%" alt="VMware"/>
+<p>Click on <b>Next</b> until you get to the Confirmation menu, then click <b>Install</b></p>
+<br>
+<p>After the install, click <b>Close</b></p>
+<p align="center">
+<img src="https://imgur.com/xfpXGZq.png" height="50%" width="60%" alt="VMware"/>
+<p>Click on the flag with the yellow caution triangle</p>
+<p align="center">
+<img src="https://imgur.com/fHMrjTr.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

@@ -348,6 +348,28 @@ Click Next.
 <p>This is the majority of the firewall configuration needed for pfsense.</p>
 <br>
 <p><b>Configuring Windows Server as a Domain Controller</b></p>
+<br>
+<p>The goal of this portion of the lab is to set up an Active Directory domain with a Windows 2019 server as the Domain Controller and 2 Windows 10 machines. This portion of the lab is very easy to set up and I'll be using <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's youtube guide</a> for an Active Directory Hacking Lab.</p>
+<br>
+<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Dowload the Windows 2019 Server Evaluation Copy</a>
+<br>
+<br>
+<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise">Dowload the Windows 10 Evaluation Copy</a>
+<br>
+<br>
+<p>~ Important Details for Windows Server Installation</p>
+<br>
+<p>(Please read below before installing the Windows Server on VMware)</p>
+<br>
+<p>*Install in VMware as usual with defaults</p>
+<br>
+<p>*Do not worry about a product key, simply click <b>Next</b></p>
+<br>
+<p>*At the end of the installation, be sure to change the Network Adapter to <b>Vmnet3</b></p>
+<br>
+<p>*<b>Make sure to UNCHECK "</b>Power on this virtual machine after creation.<b>"</b></p>
+<br>
+<p>*After the VM has been installed, click "Edit virtual machine settings" and remove the Floppy drive.</p>
 <!--
  ```diff
 - text in red

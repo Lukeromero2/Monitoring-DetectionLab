@@ -434,6 +434,15 @@ Click Next.
 <p>Click on the flag with the yellow caution triangle</p>
 <p align="center">
 <img src="https://imgur.com/fHMrjTr.png" height="50%" width="60%" alt="VMware"/>
+<p>*Select "<b>Promote this server to a domain controller</b>"</p>
+<br>
+<p>*Select <b>Add a new forest</b></p>
+<br>
+<p>*Specify a domain name</p>
+<br>
+<p>*Click <b>Next</b></p>
+<br>
+<p>*Set a password</p>
 <!--
  ```diff
 - text in red

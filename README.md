@@ -370,6 +370,14 @@ Click Next.
 <p>*<b>Make sure to UNCHECK "</b>Power on this virtual machine after creation.<b>"</b></p>
 <br>
 <p>*After the VM has been installed, click "Edit virtual machine settings" and remove the Floppy drive.</p>
+<br>
+<p>Power on the Virtual Machine and immediately click any key.</p>
+<br>
+<p>Click <b>Next</b></p>
+<br>
+<p>Click <b>Install Now</b></p>
+<p align="center">
+<img src="https://imgur.com/FHdfXHK.png" height="50%" width="50%" alt="VMware"/>
 <!--
  ```diff
 - text in red

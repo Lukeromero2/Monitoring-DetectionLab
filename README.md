@@ -403,6 +403,17 @@ Click Next.
 <p>After the installation, you should end up with this screen</p>
 <p align="center">
 <img src="https://imgur.com/cPX2vs1.png" height="50%" width="40%" alt="VMware"/>
+<p>Rename the Domain Controller</p>
+<br>
+<p>~ Navigate to Settings in the search bar</p>
+<br>
+<p>~ Search for settings in the search bar</p>
+<br>
+<p>~ Search for "pc name" in the settings search</p>
+<br>
+<p>~ Select Rename PC and rename the PC your choice name</p>
+<br>
+<p>~ Select Restart now</p>
 <!--
  ```diff
 - text in red

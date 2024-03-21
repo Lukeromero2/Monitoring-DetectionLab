@@ -587,9 +587,28 @@ Click Next.
 <br>
 <p>~ Select IPV4</p>
 <br>
-<p>~ Add an IP address(192.168.2.21) & use 192.168.2.21 as the default gateway</p>
+<p>~ Add an IP address(192.168.2.21) & use 192.168.2.1 as the default gateway</p>
 <br>
 <p>~ Use 192.168.2.10(VictimsNetwork) as the DNS Server</p>
+<p align="center">
+<img src="https://imgur.com/wATINZs.png" height="50%" width="50%" alt="VMware"/>
+<p>Search "Domain" and select Access work or school</p>
+<p align="center">
+<img src="https://imgur.com/vUFqn9q.png" height="50%" width="50%" alt="VMware"/>
+<p>Select Connect > Join this device to local Active Directory Domain</p>
+<br>
+<p>Enter your domain name.local (CYBERWOX.local for me)</p>
+<br>
+<p><b>YOU WILL GET AN ERROR. THIS IS EXPECTED, DON'T PANIC!</b></p>
+<p><b>Head over to pfsense"</b></p>
+<br>
+<p>At Services > DHCP Server > VICTIMSNETWORK > DNS Server. This should be the IP of your domain controller (192.168.2.10).</p>
+<br>
+<p>At Services > DHCP Server > VICTIMSNETWORK > Other Options > Domain Name. This should be the domain name (CYBERWOX.local)</p>
+<br>
+<p>Now try again, you should get this:</p>
+<p align="center">
+<img src="https://imgur.com/RHSWhBY.png" height="50%" width="50%" alt="VMware"/>
 <!--
  ```diff
 - text in red

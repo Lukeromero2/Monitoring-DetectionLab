@@ -717,6 +717,13 @@ Click Next.
 <p>Navigate back to your Splunk Instance >> Settings >> Add Data</p>
 <br>
 <p>Select "Forward"</p>
+<p align="center">
+<img src="https://imgur.com/yZS9JUS.png" height="50%" width="50%" alt="VMware"/>
+<p>Select Local Events Logs and choose your desired event logs >> Next</p>
+<br>
+<p>Select "wineventlog" as the index >> Review >> Submit</p>
+<br>
+<p>This was fun and exciting to work on, I plan to start other projects to polish my skills!!</p>
 <!--
  ```diff
 - text in red
@@ -725,4 +732,4 @@ Click Next.
 # text in gray
 @@ text in purple (and bold)@@
 ```
---!>
+--!

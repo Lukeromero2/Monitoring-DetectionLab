@@ -633,6 +633,8 @@ Click Next.
 <p>Before powering on the machine, enter the Virtual Machine Settings and remove the CD/DVD drive with the file named autoinst.iso, as well as the Floppy drive with the file autoinst.flp</p>
 <br>
 <p>Install the server using all the default settings and create a profile</p>
+<p align="center">
+<img src="https://imgur.com/fRTlB0X.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red

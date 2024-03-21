@@ -1,12 +1,8 @@
 <h1>Building a Cybersecurity Homelab for Detection & Monitoring - In Progress</h1>
-
 <p>Applying and implementing security ideas in cyberspace can be difficult if there is no practical and safe infrastructure to carry out these tasks.</p>
-
 <h2>What is a Homelab?</h2>
 As the name suggests, a home lab is a space where you may hone your talents in a particular area and practice. Large-scale infrastructure components and tools are mirrored in this home lab. Working with these parts and learning how they operate is safe here.
-<br />
-
-
+<br>
 <h1>CONTENT</h1>
 
 - <b>Installing VMware Workstation as hypervisor</b> 

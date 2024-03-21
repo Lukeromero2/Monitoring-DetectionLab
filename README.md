@@ -635,6 +635,32 @@ Click Next.
 <p>Install the server using all the default settings and create a profile</p>
 <p align="center">
 <img src="https://imgur.com/fRTlB0X.png" height="50%" width="60%" alt="VMware"/>
+<p>Installing an OpenSSH server is based on your preference but I recommend installing it. You can also add any services you want but it's not necessary for this lab.</p>
+<br>
+<p>During the installation, you'll be prompted to remove the CD(ISO), remove it and then reboot the VM.</p>
+<br>
+<p>After the VM has rebooted, your sign-in screen should look something similar to this:</p>
+<p align="center">
+<img src="https://imgur.com/he0nfNW.png" height="60%" width="50%" alt="VMware"/>
+<p>For the Splunk server, you have one of two options</p>
+<br>
+<p>~ Accessing it with the AnalystVM using SSH</p>
+<br>
+<p>~ Installing a GUI (Ubuntu Desktop) on the Ubuntu Server</p>
+<br>
+<p>I'll be installing a GUI on the Ubuntu Server for this lab using the following steps:</p>
+<br>
+<p>- Install tasksel</p>
+<br>
+<p>- Install the ubuntu desktop GUI, but note that there are a variety of options to choose from</p>
+<p align="center">
+<img src="https://imgur.com/xYy6S1c.png" height="50%" width="50%" alt="VMware"/>
+<p>Reboot the VM with the "reboot" command</p>
+<br>
+<p>After rebooting, you should have your GUI</p>
+<br>
+<p><b>Installing Splunk</b></p>
+<p>On your ubuntu Server, Navigate to <a href="https://www.splunk.com/">Splunk.com</a></p>
 <!--
  ```diff
 - text in red

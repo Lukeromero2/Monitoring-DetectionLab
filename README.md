@@ -521,6 +521,75 @@ Click Next.
 <p>~ Enter the following configuration</p>
 <p align="center">
 <img src="https://imgur.com/TwSedG8.png" height="50%" width="60%" alt="VMware"/>
+<p>This is the end of the Domain Controller configuration. If you're looking to do a more comprehensive configuration, you should check out <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's Video</a> and follow it in accordance with this lab. https://www.youtube.com/embed/VmQDzjq_e_g?autoplay=0&mute=0&controls=1&origin=https%3A%2F%2Fww </p>
+<br>
+<p><b>Configuring Windows 10 Desktop & Adding a User to the AD Domain</b></p>
+<p>The goal of this portion of the lab is to add 2 Windows 10 desktops to the Domain and complete the active directory lab. This portion of the lab is very easy to set up and I'll be using <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's youtube guide</a> for an Active Directory Hacking Lab.</p>
+<br>
+<p>Note that having 2 desktops is not a hard requirement for this lab as <b>ONE</b> desktop is sufficient.</p>
+<br>
+<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise">Dowload Windows 10 Evaluation Copy</a>
+<br>
+<p>~ Important Details for Windows Server Installation</p>
+<br>
+<p>(Please read below before installing the Windows Desktops)</p>
+<br>
+<p>*Install in VMware as usual with defaults</p>
+<br>
+<p>*Do not worry about a product key, simply click <b>Next</b></p>
+<br>
+<p>*Name the virtual machine the first user you set in your DC</p>
+<br>
+<p>*At the end of the installation, be sure to change the Network Adapter to <b>Vmnet3</b></p>
+<br>
+<p>*Make sure to <b>UNCHECK</b> "Power on this virtual machine after creation"</p>
+<br>
+<p>*After the VM has been installed, click "Edit virtual machine settings" and remove the Floppy drive</p>
+<br>
+<p>Repeat this process, but this time for the second user.</p>
+<br>
+<p>Use the same configuration steps as the Domain Controller</p>
+<br>
+<p>Install</p>
+<br>
+<p>Accept license terms</p>
+<br>
+<p>Use Custom Install</p>
+<br>
+<p>Select New > Apply > OK > Next</p>
+<br>
+<p>Configure Windows 10 as usual and when you get to this point select "I don't have internet"</p>
+<p align="center">
+<img src="https://imgur.com/DEPGNAz.png" height="50%" width="50%" alt="VMware"/>
+<p>Continue with limited setup</p>
+<br>
+<p>Set the first user and the password (Remeber from the DC configuration)</p>
+<br>
+<p>Set the security answers</p>
+<br>
+<p>Uncheck ALL the privacy settings then select Accept</p>
+<p align="center">
+<img src="https://imgur.com/n2p0vOs.png" height="50%" width="50%" alt="VMware"/>
+<p>Choose "Not Now" for Cortana</p>
+<br>
+<p>While you wait set up the second desktop with the second user account credentials but the same configurations.</p>
+<br>
+<p>Search "PC Name" and change the PC Name according to the designated users</p>
+<br>
+<p>Restart the PC</p>
+<p align="center">
+<img src="https://imgur.com/QDJS8F2.png" height="50%" width="50%" alt="VMware"/>
+<p><b>JOINING THE PCs TO THE DOMAIN</b></p>
+<br>
+<p>~ Navigate to Network Adapter settings</p>
+<br>
+<p>~ Right-click on Ethernet0 and select properties</p>
+<br>
+<p>~ Select IPV4</p>
+<br>
+<p>~ Add an IP address(192.168.2.21) & use 192.168.2.21 as the default gateway</p>
+<br>
+<p>~ Use 192.168.2.10(VictimsNetwork) as the DNS Server</p>
 <!--
  ```diff
 - text in red

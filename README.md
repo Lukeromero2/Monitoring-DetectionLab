@@ -661,6 +661,62 @@ Click Next.
 <br>
 <p><b>Installing Splunk</b></p>
 <p>On your ubuntu Server, Navigate to <a href="https://www.splunk.com/">Splunk.com</a></p>
+<br>
+<p>Click on "Free Splunk"</p>
+<br>
+<p>Create an account or login</p>
+<br>
+<p>Under "Splunk Core Products" >> Splunk Enterprise >> Dowload Free 60-Day Trial</p>
+<br>
+<p>Select the Linux package and download the .tgz file</p>
+<br>
+<p>Open the terminal and navigate to the downloads directory</p>
+<p align="center">
+<img src="https://imgur.com/Dz3aIHa.png" height="50%" width="60%" alt="VMware"/>
+<p>Untar the file</p>
+<br>
+<p>Navigate to the ~/Splunk/bin directory</p>
+<br>
+<p>Use the command <b>./splunk start</b> to start the splunk instance.</p>
+<br>
+<p>Enter an admin username and password of your choice</p>
+<br>
+<p>Navigate to <b>http://splunk:8000</b> your browser</p>
+<br>
+<p>Log in with the username and password you configured in the previous step</p>
+<br>
+<p><b>Installing Universal Forwarder on Windows Server</b></p>
+<p>In order to log the activities on endpoints, Splunk uses a mechanism called the universal forwarder. The universal forward can be installed on windows, *nix & mac agents to forward logs to your Splunk instance.</p>
+<br>
+<P>Add the <b>Vmnet6 Network</b> adapters to the Splunk adapter</P>
+<br>
+<p>Set up "Receiving" on your Splunk server</p>
+<br>
+<p>Navigate to Settings >> Forwarding and Receiving >> New Receiving Port</p>
+<br>
+<p>Enter port <b>9997</b> and save</p>
+<p align="center">
+<img src="https://imgur.com/ilMsg2k.png" height="50%" width="60%" alt="VMware"/>
+<p>Navigate to Settings >> Indexes >> New Index</p>
+<br>
+<p>Name the index "wineventlog" and save</p>
+<br>
+<p>On your Windows Server, <a href="https://www.splunk.com/en_us/download/universal-forwarder.html">Download the Universal Forwarder</a></p>
+<br>
+<p>Now install the forwarder:</p>
+<br>
+<p>Accept the License Agreement & click Next</p>
+<p align="center">
+<img src="https://imgur.com/lIp6QCP.png" height="50%" width="50%" alt="VMware"/>
+<p>Create a preferred username and password</p>
+<br>
+<p>Enter the IP Address of your Splunk server and the default ports as prompted (8089 & 9997)</p>
+<br>
+<p>Install</p>
+<br>
+<p>Navigate back to your Splunk Instance >> Settings >> Add Data</p>
+<br>
+<p>Select "Forward"</p>
 <!--
  ```diff
 - text in red

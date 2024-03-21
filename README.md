@@ -609,6 +609,30 @@ Click Next.
 <p>Now try again, you should get this:</p>
 <p align="center">
 <img src="https://imgur.com/RHSWhBY.png" height="50%" width="50%" alt="VMware"/>
+<p>Enter the Username" Administrator and the password of you DC</p>
+<br>
+<p> Select <b>Skip</b></p>
+<br>
+<p>Restart</p>
+<br>
+<p>Repeat this process for the second machine</p>
+<br>
+<p><b>Installing Splunk on a Ubuntu Server</b></p>
+<p>Splunk is one of the most widely used SIEMs in the CyberSecurity industry. Splunk essentially aggregates logs and datasets from various data sources and correlates all that information for easy searching, parsing, and indexing.</p>
+<br>
+<p>If you're looking to learn more about Splunk, check out our resources on Splunk:<a href="https://www.cyberwoxacademy.com/post/splunk-7-x-fundamentals-part-1">Splunk Fundamentals 1</a>.</p>
+<a href="https://www.cyberwoxacademy.com/post/splunk-core-certified-user">Splunk Core Certified User Certification</a>
+<br>
+<br>
+<p>The first part of this process will be installing a <b>Ubuntu Server</b> for our Splunk instance</p>
+<a href="https://ubuntu.com/download/server">Dowload Ubuntu Server</a>
+<br>
+<br>
+<p>After downloading the Ubuntu Server, create a new virtual machine with the following settings, then start the virtual machine.</p>
+<br>
+<p>Before powering on the machine, enter the Virtual Machine Settings and remove the CD/DVD drive with the file named autoinst.iso, as well as the Floppy drive with the file autoinst.flp</p>
+<br>
+<p>Install the server using all the default settings and create a profile</p>
 <!--
  ```diff
 - text in red

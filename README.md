@@ -130,11 +130,11 @@ Click Next.
 <img src="https://imgur.com/lr3hqNM.png" height="40%" width="30%" alt="VMware"/>
 <p>This ends the configuration of the pfsensse VM. The rest of the configuration will be done via the kali machine through the WebConfigurator.</p>
 <br>
-<p><b>Configuring Security Onion</b></p>
-<br>
+<h1>Configuring Security Onion</h1>
 <p>This will be the all-in-one IDS, Security Monitoring, and Log Management solution.</p>
 <a href="https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md"> Dowload the Security Onion ISO file from here</a>
 <br> 
+<br>
 <p>Select Typical installation >> Click Next</p>
 <br>
 <P>Installer disc imagine file >> SO ISO file path >> Click Next</P>
@@ -250,8 +250,7 @@ Click Next.
 <img src="https://imgur.com/T5VN7zY.png" height="50%" width="60%" alt="VMware"/>
 <p>This ends the configuration of the Security Onion VM.</p>
 <br>
-<p><b>Configuring Kali Linux</b></p>
-<br>
+<h1>Configuring Kali Linux</h1>
 <p>Kali Linux will be used as an attack machine to propagate different forms of offensive actions against the Domain Controller and the other machines attached to it.</p>
 <a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/">Download the Kali Linux ISO from here</a>
 <br>
@@ -264,8 +263,8 @@ Click Next.
 <p>After powering on, use this command to change the default password to a more secure one of your choice:</p>
 <br>
 <p>The Kali Machine is ready for use now.</p>
-<p><b>pfsense Interfaces and Rules</b></p>
 <br>
+<h1>pfsense Interfaces and Rules</h1>
 <p>Now that the Kali machine is set up, the pfsense WebConfigurator can be accessed in order to make some changes to the pfsense interface and firewall rules.</p>
 <br>
 <p>Navigate to the web browser and search for <b>192.168.1.1</b></p>
@@ -347,8 +346,7 @@ Click Next.
 <img src="https://imgur.com/e4YqjTp.png" height-"50%" width="65%" alt="VMware"/>
 <p>This is the majority of the firewall configuration needed for pfsense.</p>
 <br>
-<p><b>Configuring Windows Server as a Domain Controller</b></p>
-<br>
+<h1>Configuring Windows Server as a Domain Controller</h1>
 <p>The goal of this portion of the lab is to set up an Active Directory domain with a Windows 2019 server as the Domain Controller and 2 Windows 10 machines. This portion of the lab is very easy to set up and I'll be using <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's youtube guide</a> for an Active Directory Hacking Lab.</p>
 <br>
 <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Dowload the Windows 2019 Server Evaluation Copy</a>
@@ -523,7 +521,7 @@ Click Next.
 <img src="https://imgur.com/TwSedG8.png" height="50%" width="60%" alt="VMware"/>
 <p>This is the end of the Domain Controller configuration. If you're looking to do a more comprehensive configuration, you should check out <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's Video</a> and follow it in accordance with this lab. https://www.youtube.com/embed/VmQDzjq_e_g?autoplay=0&mute=0&controls=1&origin=https%3A%2F%2Fww </p>
 <br>
-<p><b>Configuring Windows 10 Desktop & Adding a User to the AD Domain</b></p>
+<h1>Configuring Windows 10 Desktop & Adding a User to the AD Domain</h1>
 <p>The goal of this portion of the lab is to add 2 Windows 10 desktops to the Domain and complete the active directory lab. This portion of the lab is very easy to set up and I'll be using <a href="https://www.youtube.com/watch?v=xftEuVQ7kY0">The Cyber Mentor's youtube guide</a> for an Active Directory Hacking Lab.</p>
 <br>
 <p>Note that having 2 desktops is not a hard requirement for this lab as <b>ONE</b> desktop is sufficient.</p>
@@ -579,8 +577,7 @@ Click Next.
 <p>Restart the PC</p>
 <p align="center">
 <img src="https://imgur.com/QDJS8F2.png" height="50%" width="50%" alt="VMware"/>
-<p><b>JOINING THE PCs TO THE DOMAIN</b></p>
-<br>
+<h1>JOINING THE PCs TO THE DOMAIN</h1>
 <p>~ Navigate to Network Adapter settings</p>
 <br>
 <p>~ Right-click on Ethernet0 and select properties</p>
@@ -617,7 +614,7 @@ Click Next.
 <br>
 <p>Repeat this process for the second machine</p>
 <br>
-<p><b>Installing Splunk on a Ubuntu Server</b></p>
+<H1>Installing Splunk on a Ubuntu Server</H1>
 <p>Splunk is one of the most widely used SIEMs in the CyberSecurity industry. Splunk essentially aggregates logs and datasets from various data sources and correlates all that information for easy searching, parsing, and indexing.</p>
 <br>
 <p>If you're looking to learn more about Splunk, check out our resources on Splunk:<a href="https://www.cyberwoxacademy.com/post/splunk-7-x-fundamentals-part-1">Splunk Fundamentals 1</a>.</p>
@@ -659,7 +656,7 @@ Click Next.
 <br>
 <p>After rebooting, you should have your GUI</p>
 <br>
-<p><b>Installing Splunk</b></p>
+<h1>Installing Splunk</h1>
 <p>On your ubuntu Server, Navigate to <a href="https://www.splunk.com/">Splunk.com</a></p>
 <br>
 <p>Click on "Free Splunk"</p>
@@ -685,7 +682,7 @@ Click Next.
 <br>
 <p>Log in with the username and password you configured in the previous step</p>
 <br>
-<p><b>Installing Universal Forwarder on Windows Server</b></p>
+<h1>Installing Universal Forwarder on Windows Server</h1>
 <p>In order to log the activities on endpoints, Splunk uses a mechanism called the universal forwarder. The universal forward can be installed on windows, *nix & mac agents to forward logs to your Splunk instance.</p>
 <br>
 <P>Add the <b>Vmnet6 Network</b> adapters to the Splunk adapter</P>

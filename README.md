@@ -429,8 +429,7 @@ Click Next.
 <p>Click on <b>Next</b> until you get to the Confirmation menu, then click <b>Install</b></p>
 <br>
 <p>After the install, click <b>Close</b></p>
-<p align="center">
-<img src="https://imgur.com/xfpXGZq.png" height="50%" width="60%" alt="VMware"/>
+<br>
 <p>Click on the flag with the yellow caution triangle</p>
 <p align="center">
 <img src="https://imgur.com/fHMrjTr.png" height="50%" width="60%" alt="VMware"/>
@@ -443,6 +442,85 @@ Click Next.
 <p>*Click <b>Next</b></p>
 <br>
 <p>*Set a password</p>
+<p align="center">
+<img src="https://imgur.com/X6tB600.png" height="50%" width="50%" alt="VMware"/>
+<p>Click <b>Next</b> to get to the <b>Prerequisites Check</b> Menu</p>
+<br>
+<p>Click <b>Install</b></p>
+<br>
+<p><b>Wait for reboot</b></p>
+<br>
+<p>After the reboot, log back in</p>
+<br>
+<p>Select Manage >> Add Roles & Features again on the Server Manager</p>
+<br>
+<p>Click <b>Next</b> until you get to <b>Server Roles</b></p>
+<p align="center">
+<img src="https://imgur.com/xAJxA6i.png" height="50%" width="50%" alt="VMware"/>
+<p>Select <b>Active Directory Certificate Services</b></p>
+<br>
+<p>Select <b>Add Features</b></p>
+<br>
+<p>Click <b>Next</b> until you get to the "<b>Confirmation</b>" menu</p>
+<br>
+<p>Check "<b>Restart the destination server automatically if required</b>"</p>
+<br>
+<p>Select <b>Yes</b></p>
+<br>
+<p>Select <b>Install</b></p>
+<br>
+<p>After the installation, Click <b>Close</b></p>
+<p align="center">
+<img src="https://imgur.com/xfpXGZq.png" height="50%" width="60%" alt="VMware"/>
+<p>Click on the flag with the yellow caution triangle</p>
+<p>Select "<b>Configure Active Directory Certificate Services on the destination server</b>"</p>
+<p align="center">
+<img src="https://imgur.com/fHMrjTr.png" height="50%" width="60%" alt="VMware"/>
+<p>Click <b>Next</b> on <b>Credentials</b></p>
+<br>
+<p>On the <b>Role Services</b> menu, check <b>Certification Authority</b></p>
+<p align="center">
+<img src="https://imgur.com/hLQI7wF.png" height="50%" width="40%" alt="VMware"/>
+<p>Click <b>Next</b> until you get to the <b>Validity period</b> menu and change it to <b>99</b> years</p>
+<p align="center">
+<img src="https://imgur.com/nYSKOao.png" height="50%" width="40%" alt="VMware"/>
+<p>Click <b>Next</b> until you get to the <b>Confirmation</b> menu</p>
+<br>
+<p>Then select <b>Configure</b></p>
+<br>
+<p>Manually restart the server in order for all the settings to take effect.</p>
+<br>
+<p>Now add some Users:</p>
+<br>
+<p>~ Back at the Server Manager Select <b>Tools</b> > <b>Active Directory Users and Computers</b></p>
+<p align="center">
+<img src="https://imgur.com/R43PcsT.png" height="50%" width="40%" alt="VMware"/>
+<p>Select your <b>Domain Name (CYBERWOX.local)</b>><b>Users</b>, Right Click & Select <b>New</b>><b>User</b></p>
+<br>
+<p>~ Enter a First, Last & User logon name for the user (Disregard the "WIN10" and just set a preferred logon name).</p>
+<p align="center">
+<img src="https://imgur.com/Ym7fejh.png" height="50%" width="40%" alt="VMware"/>
+<p>Set a new password that never expires. Select <b>Finish</b>.</p>
+<p align="center">
+<img src="https://imgur.com/wtrBvKp.png" height="50%" width="40%" alt="VMware"/>
+<p>Right Click on the previous user you created, Select Copy, and create another user.</p>
+<br>
+<p>Disregard the "<b>WIN7</b>" and set a preferred logon name.</p>
+<br>
+<p>After this, add a password that never expires.</p>
+<br>
+<p>Search for "<b>Windows Defender Firewall</b>" > <b>Turn Windows Defender Firewall on or off</b>.</p>
+<br>
+<p>Turn off the firewall for all Networks</p>
+<p align="center">
+<img src="https://imgur.com/UrByb7f.png" height="50%" width="40%" alt="VMware"/>
+<p>Now use pfsense as the default gateway for the Domain Controller</p>
+<br>
+<p>~ Navigate to <b>Control Panel</b> > <b>Network and Internet</b> > <b>Network Connections</b></p>
+<br>
+<p>~ Enter the following configuration</p>
+<p align="center">
+<img src="https://imgur.com/TwSedG8.png" height="50%" width="60%" alt="VMware"/>
 <!--
  ```diff
 - text in red
